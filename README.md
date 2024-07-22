@@ -1,16 +1,5 @@
-# Tracking Turret V2
-In this project I designed and constructed a pan and tilt tracking robot. It is the refined version of a pervious pan and tilt tracking robot I made summer 2023
-
-# Its capabilities include
-- Color and object detection
-- Aiming and shooting software
-- Pan and tilt degrees of rotation, allowing for near omnidirectional tracking and shooting of target
-
-# Upgrades from last year include
-- Near omnidireectional tracking
-- Improved structural stability
-- Improved shot accuracy by __%
-
+# Tracking Turret
+In this project I designed and constructed a pan and tilt tracking and shooting robot. I started this project summer 2023 and created the tracking turrent V1. In summer 2024 I revisited this project to improve its design creating tracking turret V2.
 
 Pan tilt stepper motor tracking turret Superior Upgraded Enhanced Automated
 P T SM T T S U E A

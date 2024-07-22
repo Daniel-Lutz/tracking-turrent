@@ -1,4 +1,4 @@
-# Tracking Turret 
+# Tracking Turret V2
 In this project I designed and constructed a pan and tilt tracking robot. It is the refined version of a pervious pan and tilt tracking robot I made summer 2023
 
 # Its capabilities include

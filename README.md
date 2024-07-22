@@ -1,8 +1,8 @@
-# tracking-turrets
 # ___ is the refined version of a pervious pan and tilt tracking robot I made summer 2023
 # ___ is a pan and tilt tracking 
 # Its capabilities include
-# _
+-
+- Omnidirectional tracking
 # Upgrades from last year include
 # -
 

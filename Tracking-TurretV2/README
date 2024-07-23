@@ -13,11 +13,20 @@ In this project I rebuit an upgrated version of my tracking turret V1 that I cre
   - Due to replacement of pvc structure with rotating base and legs
   - Due to replacement of wooden clamp gun/camera holder with 3D printed gun/camera holder
 
-#Components
+# Hardware
 - Support
+  - ?x wooden boards
+  - 2x skate board ball bearings
+  - Swivel plate
+  - ?x nuts and bolts
   - 
-- Electronic
-  - 
+-Electronic
+  - Raspberry pi 4
+  - Rasberry pi camera
+  - Bread board
+  - 2x stepper motors
+  - Stepper motor hat
+  - ?x jumper cables
 
 
 

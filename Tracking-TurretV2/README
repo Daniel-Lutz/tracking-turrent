@@ -2,16 +2,17 @@
 In this project I rebuit an upgrated version of my tracking turret V1 that I created summer 2023.
 
 # Its capabilities include
-- Color and object detection
+- Contour and object detection
 - Aiming and shooting software
 - Pan and tilt degrees of rotation, allowing for near omnidirectional tracking and shooting of target
 
 # Upgrades from last year include
-- Near omnidireectional tracking and improved tracking and shot accuracy
+- Near omnidireectional tracking and improved accuracy
   - Due to replacement of servo motors with stepper motors
 - Improved structural stability
   - Due to replacement of pvc structure with rotating base and legs
   - Due to replacement of wooden clamp gun/camera holder with 3D printed gun/camera holder
+- Introduction of contour tracking and improved object detection algorithm
 
 # Hardware
 - Support

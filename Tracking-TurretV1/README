@@ -1,7 +1,7 @@
 # This was my first engineering project originally made in summer 2023. In summer 2024 I have revisited this project to document it.
 
 # Turret V1's capabilities include:
--Tracking faces and colors through 180 degrees in the x and y axis
+-Tracking faces through 180 degrees in the x and y axis
 - Aiming and shooting at the center of a target
 
 # Hardware
